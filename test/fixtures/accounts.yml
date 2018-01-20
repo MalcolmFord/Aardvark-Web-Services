@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  account_type: one
+  payment_plan: one
+  next_payment: 2018-01-20
+
+two:
+  user: two
+  account_type: two
+  payment_plan: two
+  next_payment: 2018-01-20
